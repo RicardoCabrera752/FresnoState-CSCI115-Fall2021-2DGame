@@ -1,0 +1,6 @@
+﻿  CSCI 115 2D GameMain.cpp
+c:\users\ricardo cabrera\desktop\csci 115\csci 115 project-ricardo cabrera\csci 115 project-ricardo cabrera\csci 115 2d gamemain.cpp(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CSCI 115 2D GameVer2.cpp
+  Generating Code...
+c:\users\ricardo cabrera\desktop\csci 115\csci 115 project-ricardo cabrera\csci 115 project-ricardo cabrera\csci 115 2d gamever2.cpp(334): warning C4715: 'getMapName': not all control paths return a value
+  CSCI 115 Project-Ricardo Cabrera.vcxproj -> C:\Users\Ricardo Cabrera\Desktop\CSCI 115\CSCI 115 Project-Ricardo Cabrera\Debug\CSCI 115 Project-Ricardo Cabrera.exe
