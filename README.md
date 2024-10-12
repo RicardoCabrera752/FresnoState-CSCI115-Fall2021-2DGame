@@ -15,5 +15,7 @@ Start the game by running the local windows debugger using the toolbar.
 
 Play the maze game and try to surive as long as your can.
 
+If you need more information see the readme2.txt file or the project report document.
+
 GLHF
 
